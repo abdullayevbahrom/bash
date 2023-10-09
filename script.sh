@@ -1,4 +1,4 @@
 #!/bin/bash
 echo -n "Yoshing nechchida? "
-read yosh
+read age
 echo $age
